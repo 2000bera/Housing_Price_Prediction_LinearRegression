@@ -25,6 +25,10 @@ Pandas (for data handling)
 
 Matplotlib and Seaborn (for visualizations)
 
+Numpy (for numeric)
+
+Warnings
+
 Scikit-Learn (for Linear Regression and evaluation)
 
 ## ✈ How to Run (Google Colab)
@@ -32,34 +36,33 @@ Scikit-Learn (for Linear Regression and evaluation)
 
 1. Open the project in GitHub.
    
-2. Click on the notebook in the `notebooks/` folder and go to `wholesale_data.ipynb`.
+2. Click on the notebook in the `notebooks/` folder and go to `Housing_price.ipynb`.
    
 3. Click the **"Open in Colab"** button at the top of the notebook (or use the link below).
 
 Open in Colab:
 
 
-https://colab.research.google.com/drive/1G8MjNGFF3rlDvbuwrG9FTK297vZMp1zl#scrollTo=EuVZF6XeF-bp
+https://colab.research.google.com/drive/1PQ0-kA0Wo8pNLTEgBiwBAhhzZU5SF9m4#scrollTo=YI0C-tEom1B4
 
   
 ## 🔎 Results
 
-
-Mean square error: 296204167265.41986
-
-
-Mean absolute error: 364203.64147671004
+Mean square error: 1242507083253.1592
 
 
-Root mean square error: 544246.4214539402
+Mean absolute error: 808831.3046101702
 
 
-Score: 0.9994458527535016
+Root mean square error: 1114678.0177491433
+
+
+Score: 0.6192266539196798
 
 ## 📟 Visualization
 
 
-<img width="560" height="463" alt="LR" src="https://github.com/user-attachments/assets/5bc160b8-6e77-4856-b2cb-b8ac3d044fbc" />
+<img width="574" height="463" alt="LR2" src="https://github.com/user-attachments/assets/ec2bbbe4-0dac-42ba-99d2-bc52708999b4" />
 
 
 ## 📚 Learnings
