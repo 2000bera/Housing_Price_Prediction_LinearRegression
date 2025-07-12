@@ -10,6 +10,8 @@ Predicting house prices based on past prices.
 Title - Housing Price Prediction
  
 Site - https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+
+Collaborators - HARISH KUMARdatalab (Owner)
  
 Data - Housing
 
