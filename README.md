@@ -3,22 +3,15 @@
 
 ## Project Description:
   
-Predict future sales based on past sales.
-
-South african dataset that based on wholesale trade sales for monthly starting from 2000-2025
+Predicting house prices based on past prices.
 
 ## Dataset
   
- ISIbalo Data Portal
-
+Title - Housing Price Prediction
  
- Site - https://isibaloweb.statssa.gov.za/idatweb.php or
-
+Site - https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
  
- Site - https://www.statssa.gov.za/?page_id=1847
-
- 
- Data - Wholesale Trade From 2000
+Data - Housing
 
 ## 🛠 Tools Use and Libraries
 
